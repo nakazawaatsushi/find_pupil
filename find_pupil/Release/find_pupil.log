@@ -1,0 +1,8 @@
+﻿2016/10/24 13:27:50 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "E:\My Document\LOCAL\PUPIL_ANALYSIS\find_pupil\find_pupil\find_pupil.vcxproj" (Clean ターゲット)。
+       プロジェクト ファイルに ToolsVersion="12.0" が含まれています。このツールセットが不明であるか、存在しない可能性があります。その場合は、適切なバージョンの MSBuild をインストールして解決するか、ビルドがポリシー上の理由により特定の ToolsVersion を使用するよう強制されている可能性があります。プロジェクトを ToolsVersion="4.0" として扱います。詳細については、http://go.microsoft.com/fwlink/?LinkId=291333 を参照してください。
+     1>プロジェクト "E:\My Document\LOCAL\PUPIL_ANALYSIS\find_pupil\find_pupil\find_pupil.vcxproj" (Clean ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.07

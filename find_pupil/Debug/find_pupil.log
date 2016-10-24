@@ -1,0 +1,11 @@
+﻿2015/12/25 23:20:30 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\find_pupil\find_pupil\find_pupil.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt find_pupil.cpp
+         find_pupil.cpp
+     1>d:\find_pupil\find_pupil\find_pupil.cpp(9): fatal error C1083: include ファイルを開けません。'boost/algorithm/string.hpp':No such file or directory
+     1>プロジェクト "D:\find_pupil\find_pupil\find_pupil.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.72
